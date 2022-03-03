@@ -9,7 +9,7 @@
 - ⚡ Fun facts: 
   - I've spent ≥$10M on social media ads -- mostly targeting moms in America 
   - I brew that sweet, sweet booch 
-  - I once narrowly escaped flash flood
+  - I once narrowly escaped a flash flood
 - 🤔 I’m looking for help with the job search. Constructive feedback welcome!
 
 
