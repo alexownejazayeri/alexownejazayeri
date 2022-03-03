@@ -18,8 +18,8 @@
 ```javascript
 const alxo = {
   location: "San Francisco Bay Area",
-  code: [JavaScript, HTML, CSS, Python, SQL],
-  tools: [React, Node],
+  languages: [JavaScript, HTML, CSS, Python, SQL],
+  tools: [React, Node, Django, Jupyter, Pandas],
   challenge: {
     name: "#100DaysOfCode",
     goals: [
