@@ -2,7 +2,7 @@
 
 ---
 
-⚛️ I narrowly avoided death-by-giant-tree-limb and now I'm committed to #100DaysOfCode -- diligently working toward a career as a software engineer.
+I narrowly avoided death-by-giant-tree-limb and committed to #100DaysOfCode. Now I'm diligently working toward a career as a software engineer.
 
 - 💬 Ask me about: JavaScript, React, MERNG, [my #100DaysOfCode story](https://github.com/alexownejazayeri/100-days-of-code/blob/master/hello-world.md), what to buy at Trader Joe's
 - 📫 Say hello: [@alexjazayeri](https://twitter.com/alexjazayeri)
