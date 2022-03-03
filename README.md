@@ -15,9 +15,9 @@
 ```javascript
 const alxo = {
   location: "San Francisco Bay Area",
-  languages: [JavaScript, HTML, CSS, Python, SQL],
-  tools: [React, Node, Jupyter, Pandas],
-  learning: [TypeScript, Django, Express, MongoDB, GraphQL],
+  languages: ["JavaScript", "HTML", "CSS", "Python", "SQL"],
+  tools: ["React", "Node", "Jupyter", "Pandas", "D3.JS"],
+  learning: ["TypeScript", "Django", "Express", "MongoDB", "GraphQL"],
   challenge: {
     name: "#100DaysOfCode",
     goals: [
