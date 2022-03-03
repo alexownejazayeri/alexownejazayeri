@@ -2,11 +2,11 @@
 
 ---
 
-⚛️ I narrowly avoided death-by-giant-tree-limb and committed to becoming a software engineer after. I'm eagerly working toward a career in tech.
+⚛️ I narrowly avoided death-by-giant-tree-limb and now I'm committed to #100DaysOfCode -- working to start a career as a software engineer.
 
-- 💬 Ask me about: React, MERNG, my #100DaysOfCode story, what to buy at Trader Joe's
+- 💬 Ask me about: JavaScript, React, MERNG, my #100DaysOfCode story, what to buy at Trader Joe's
 - 📫 Say hello: [@alexjazayeri](https://twitter.com/alexjazayeri)
-- ⚡ Fun facts: I've spent ≥$10M running social media ads targeting moms, brew that sweet booch and escaped a flash flood with a broken ankle once
+- ⚡ Fun facts: I've spent ≥$10M running social media ads targeting moms, brew that sweet kombucha, and escaped a flash flood with a broken ankle once
 - 🤔 I’m looking for help with the job search. Constructive feedback welcome!
 
 
