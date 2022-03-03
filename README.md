@@ -6,10 +6,7 @@
 
 - 💬 Ask me about: React, MERNG, my #100DaysOfCode story, what to buy at Trader Joe's
 - 📫 Say hello: [@alexjazayeri](https://twitter.com/alexjazayeri)
-- ⚡ Fun facts: 
-  - I've spent ≥$10M on social media ads -- mostly targeting moms in America 
-  - I brew that sweet, sweet booch 
-  - I once narrowly escaped a flash flood
+- ⚡ Fun facts: I've spent ≥$10M running social media ads targeting moms, brew that sweet booch and escaped a flash flood with a broken ankle once
 - 🤔 I’m looking for help with the job search. Constructive feedback welcome!
 
 
