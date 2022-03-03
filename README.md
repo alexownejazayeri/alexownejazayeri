@@ -2,7 +2,7 @@
 
 ---
 
-⚛️ I'm an FCC-certified React dev who narrowly avoided death-by-giant-tree-limb and to commit to becoming a software engineer because of it. Eagerly looking forward to to adding value in a full-time software engineering role.
+⚛️ I narrowly avoided death-by-giant-tree-limb and committed to becoming a software engineer because of it. Eagerly looking forward to to adding value in a full-time software engineering role.
 
 - 💬 Ask me about: React, MERNG, my #100DaysOfCode story, what to buy at Trader Joe's
 - 📫 Say hello: [@alexjazayeri](https://twitter.com/alexjazayeri)
