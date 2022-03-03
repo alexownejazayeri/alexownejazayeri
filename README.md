@@ -2,7 +2,7 @@
 
 ---
 
-⚛️ I narrowly avoided death-by-giant-tree-limb and committed to becoming a software engineer because of it. Eagerly looking forward to to adding value in a full-time software engineering role.
+⚛️ I narrowly avoided death-by-giant-tree-limb and committed to becoming a software engineer after. I'm eagerly working toward a career in tech.
 
 - 💬 Ask me about: React, MERNG, my #100DaysOfCode story, what to buy at Trader Joe's
 - 📫 Say hello: [@alexjazayeri](https://twitter.com/alexjazayeri)
