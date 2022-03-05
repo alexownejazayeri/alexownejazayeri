@@ -11,11 +11,7 @@ I narrowly avoided death-by-giant-tree-limb and committed to #100DaysOfCode. Now
 
 
 ### <img src="https://media4.giphy.com/media/IUNycHoVqvLDowiiam/giphy.gif?cid=ecf05e47bmtuqow17rh79nn8333v541fm3b77dbmjf6r9mm3&rid=giphy.gif&ct=s" width="50"> Rose are red... 
-Violets are blue,
-
-Google has all my data;
-
-You can have some too
+Violets are blue; Google has all my data and you can have some too.
 
 ```javascript
 const alxo = {
