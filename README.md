@@ -4,7 +4,7 @@
 
 I narrowly avoided death-by-giant-tree-limb and committed to #100DaysOfCode. Now I'm diligently working toward a career as a software engineer.
 
-- 💬 Ask me about: JavaScript, React, MERNG, [my #100DaysOfCode story](https://github.com/alexownejazayeri/100-days-of-code/blob/master/hello-world.md), what to buy at Trader Joe's
+- 💬 Ask me about: JavaScript, React, [my #100DaysOfCode story](https://github.com/alexownejazayeri/100-days-of-code/blob/master/hello-world.md), what to buy at Trader Joe's
 - 📫 Say hello: [@alexjazayeri](https://twitter.com/alexjazayeri)
 - ⚡ Fun facts: I've spent ≥$10M running social media ads targeting moms, brew that sweet kombucha, and escaped a flash flood with a broken ankle once
 - 🤔 I’m looking for help with the job search. Constructive feedback welcome!
