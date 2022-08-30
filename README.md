@@ -1,4 +1,4 @@
-<h1 align='center'> Hiyo, I'm Alex O  <img src="https://media4.giphy.com/media/3og0ICwds3bhSNvXwY/giphy.gif?cid=ecf05e47qqf3pi7jy3yfvk8oyl3p9cyct8h9eoqglx3035dw&rid=giphy.gif&ct=s" width="50"></h1>
+<h1 align='center'> Hiyo, I'm Alex O.  <img src="https://media4.giphy.com/media/3og0ICwds3bhSNvXwY/giphy.gif?cid=ecf05e47qqf3pi7jy3yfvk8oyl3p9cyct8h9eoqglx3035dw&rid=giphy.gif&ct=s" width="50"></h1>
 
 ---
 
@@ -12,11 +12,11 @@ Violets are blue; Google has all my data and now you do too.
 
 ```javascript
 const alxo = {
-  location: "San Francisco Bay Area",
+  location: "SF Bay Area",
   company: "Aloompa",
   languages: ["ES6", "TypeScript", "GraphQL", "Python", "SQL"],
   tools: ["React", "Node", "Jupyter", "Pandas", "D3.JS"],
-  learning: ["AWS Cloud", "DynamoDB"],
+  learning: ["AWS Cloud", "DynamoDB", "VTL"],
 };
 ```
 
