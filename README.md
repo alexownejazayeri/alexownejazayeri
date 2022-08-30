@@ -14,9 +14,9 @@ Violets are blue; Google has all my data and now you do too.
 const alxo = {
   location: "San Francisco Bay Area",
   company: "Aloompa",
-  languages: ["JavaScript", "TypeScript", "HTML/CSS", "Python", "SQL"],
+  languages: ["ES6", "TypeScript", "GraphQL", "Python", "SQL"],
   tools: ["React", "Node", "Jupyter", "Pandas", "D3.JS"],
-  learning: ["TypeScript", "Django", "Express", "MongoDB", "GraphQL"],
+  learning: ["AWS Cloud", "DynamoDB"],
 };
 ```
 
