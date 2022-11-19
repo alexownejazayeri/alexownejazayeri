@@ -8,13 +8,18 @@
 
 
 ### <img src="https://media4.giphy.com/media/IUNycHoVqvLDowiiam/giphy.gif?cid=ecf05e47bmtuqow17rh79nn8333v541fm3b77dbmjf6r9mm3&rid=giphy.gif&ct=s" width="50"> Roses are red... 
-Violets are blue; Google has all my data and now you do too.
+
+Violets are blue
+
+Google has my data
+
+Now you do too
 
 ```javascript
 const alxo = {
   location: "SF Bay Area",
   company: "Aloompa",
-  languages: ["ES6", "TypeScript", "GraphQL", "Python", "SQL"],
+  languages: ["ES6", "TS/JS", "GraphQL", "Python", "SQL"],
   tools: ["React", "Node", "Jupyter", "Pandas", "D3.JS"],
   learning: ["AWS Cloud", "DynamoDB", "VTL"],
 };
