@@ -18,10 +18,24 @@ Now you do too
 ```javascript
 const alxo = {
   location: "SF Bay Area",
-  company: "Aloompa",
+  company: "Open to work!",
   languages: ["ES6", "TS/JS", "GraphQL", "Python", "SQL"],
-  tools: ["React", "Node", "Jupyter", "Pandas", "D3.JS"],
-  learning: ["AWS Cloud", "DynamoDB", "VTL"],
+  tools: ["React", "Node", "AWS", "Jupyter", "Pandas", "D3.JS"],
+  learning: {
+    "#12in23": [
+      "JS",
+      "TypeScript",
+      "Bash",
+      "Python",
+      "Dart",
+      "Swift",
+      "Ruby",
+      "Rust",
+      "Go",
+      "Haskell",
+      "WebAssembly",
+      "x86-64 Assembly (teeny bits, just for play.)"
+  }
 };
 ```
 
