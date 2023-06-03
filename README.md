@@ -19,8 +19,8 @@ Now you do too
 const alxo = {
   location: "SF Bay Area",
   company: "Open to work!",
-  languages: ["ES6", "TS/JS", "GraphQL", "Python", "SQL"],
-  tools: ["React", "Node", "AWS", "Jupyter", "Pandas", "D3.JS"],
+  languages: ["JS/ES6+", "TypeScript", "GraphQL", "Python", "SQL"],
+  tools: ["React.js", "Next.js", "Node", "AWS", "Webpack", "Serverless", "Jupyter", "Pandas", "D3.JS"],
   learning: {
     "#12in23": [
       "JS",
