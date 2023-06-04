@@ -27,6 +27,7 @@ const alxo = {
     "Node",
     "AWS",
     "Webpack",
+    "Babel",
     "Serverless",
     "Jupyter",
     "Pandas",
@@ -40,11 +41,11 @@ const alxo = {
       "Python",
       "Dart",
       "Swift",
-      "Ruby",
+      "Java",
       "Rust",
       "Go",
       "Haskell",
-      "C#",
+      "C++",
       "x86-64 Assembly (teeny bits, just for play.)"
   }
 };
