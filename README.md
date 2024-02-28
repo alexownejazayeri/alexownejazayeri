@@ -18,7 +18,7 @@ Now you do too!
 ```javascript
 const alxo = {
   location: "SF Bay Area",
-  company: "Open to work!",
+  company: "Symphonic | Streaming Promotions",
   languages: ["JS/ES6+", "TypeScript", "GraphQL", "Python", "SQL"],
   tools: [
     "React.js",
