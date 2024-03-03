@@ -28,25 +28,12 @@ const alxo = {
     "AWS",
     "Webpack",
     "Babel",
+    "Vite",
+    "Vitest",
     "Serverless",
     "Jupyter",
     "Pandas",
     "D3.JS"
     ],
-  learning: {
-    "#12in23": [
-      "JS",
-      "TypeScript",
-      "Bash",
-      "Python",
-      "Dart",
-      "Swift",
-      "Java",
-      "Rust",
-      "Go",
-      "Haskell",
-      "C++",
-      "x86-64 Assembly (teeny bits, just for play.)"
-  }
-};
+  learning: ["Haskell", "Machine Learning on Kaggle", "AWS Cloud"];
 ```
