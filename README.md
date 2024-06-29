@@ -18,7 +18,7 @@ Now you do too!
 ```javascript
 const alxo = {
   location: "SF Bay Area",
-  company: "Symphonic | Streaming Promotions",
+  company: "Vestaboard",
   languages: ["JS/ES6+", "TypeScript", "GraphQL", "Python", "SQL"],
   tools: [
     "React.js",
@@ -36,4 +36,5 @@ const alxo = {
     "D3.JS"
     ],
   learning: ["Haskell", "Machine Learning on Kaggle", "AWS Cloud"];
+}
 ```
