@@ -35,6 +35,6 @@ const alxo = {
     "Pandas",
     "D3.JS"
     ],
-  learning: ["Haskell", "Machine Learning on Kaggle", "AWS Cloud"];
-}
+  learning: ["Haskell", "Machine Learning on Kaggle", "AWS Cloud"]
+};
 ```
