@@ -1,8 +1,8 @@
-<h1 align='center'> Hiyo, I'm Alex O.  <img src="https://media4.giphy.com/media/3og0ICwds3bhSNvXwY/giphy.gif?cid=ecf05e47qqf3pi7jy3yfvk8oyl3p9cyct8h9eoqglx3035dw&rid=giphy.gif&ct=s" width="50"></h1>
+<h1 align='center'> Hiyo, I'm Alex M. <img src="https://media4.giphy.com/media/3og0ICwds3bhSNvXwY/giphy.gif?cid=ecf05e47qqf3pi7jy3yfvk8oyl3p9cyct8h9eoqglx3035dw&rid=giphy.gif&ct=s" width="50"></h1>
 
 ---
 
-- 💬 Ask me about: TypeScript, React, what to buy at Trader Joe's
+- 💬 Ask me about: React Native, TS/JS, and what to buy at Trader Joe's
 - 📫 Say hello: [@alexjazayeri](https://twitter.com/alexjazayeri)
 - ⚡ Fun facts: I've escaped a flash flood with a broken ankle and I brew that sweet, sweet 'boocha.
 
@@ -15,26 +15,22 @@ Google has my data
 
 Now you do too!
 
-```javascript
+```typescript
 const alxo = {
-  location: "SF Bay Area",
+  location: "Princeton, New Jersey",
   company: "Vestaboard",
-  languages: ["JS/ES6+", "TypeScript", "GraphQL", "Python", "SQL"],
+  languages: ["JS/ES6+", "TypeScript", "Kotlin", "Python", "Swift"],
   tools: [
-    "React.js",
-    "Next.js",
-    "Apollo",
+    "React/React Native",
+    "NextJS",
     "Node",
-    "AWS",
-    "Webpack",
-    "Babel",
-    "Vite",
-    "Vitest",
+    "GraphQL",
+    "RDBMS, SQL",
+    "NoSQL",
     "Serverless",
-    "Jupyter",
-    "Pandas",
-    "D3.JS"
+    "AWS",
+    "GCP",
     ],
-  learning: ["Haskell", "Machine Learning on Kaggle", "AWS Cloud"]
+  learning: ["Kotlin", "Swift", "Bash"]
 };
 ```
