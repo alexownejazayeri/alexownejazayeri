@@ -19,18 +19,18 @@ Now you do too!
 const alxo = {
   location: "Princeton, New Jersey",
   company: "Vestaboard",
-  languages: ["JS/ES6+", "TypeScript", "Kotlin", "Python", "Swift"],
+  languages: ["JS/TS", "Kotlin", "Python"],
   tools: [
     "React/React Native",
     "NextJS",
     "Node",
     "GraphQL",
-    "RDBMS, SQL",
+    "SQL",
     "NoSQL",
     "Serverless",
     "AWS",
     "GCP",
     ],
-  learning: ["Kotlin", "Swift", "Bash"]
+  learning: ["Swift", "Bash", "Elixir"]
 };
 ```
