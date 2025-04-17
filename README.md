@@ -4,7 +4,7 @@
 
 - 💬 Ask me about: React Native, TS/JS, and what to buy at Trader Joe's
 - 📫 Say hello: [@alexjazayeri](https://twitter.com/alexjazayeri)
-- ⚡ Fun facts: I've escaped a flash flood with a broken ankle and I brew that sweet, sweet 'boocha.
+- ⚡ Fun facts: I once escaped a flash flood with a broken ankle at ['The Subway'](https://www.nps.gov/zion/planyourvisit/thesubway.htm) in Zion Nat'l Park.
 
 
 ### <img src="https://media4.giphy.com/media/IUNycHoVqvLDowiiam/giphy.gif?cid=ecf05e47bmtuqow17rh79nn8333v541fm3b77dbmjf6r9mm3&rid=giphy.gif&ct=s" width="50"> Roses are red... 
